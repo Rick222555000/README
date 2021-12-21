@@ -35,6 +35,10 @@
 
 <img aling="left" alt="Os status do meu GitHub" src="https://github-readme-stats.vercel.app/api?username=Rick222555000&show_icons=true&theme=dracula&hide_border=true&locale=pt-br">
 
+---
+
+<img aling="left alt="Lista das linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick222555000">
+
 [twitter]: https://twitter.com/Rikelmy_Magno
 [instagram]: https://www.instagram.com/umnerdequalquer/
 [facebook]: https://www.facebook.com/profile.php?id=100008299009159
