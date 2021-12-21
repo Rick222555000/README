@@ -37,7 +37,7 @@
 
 ---
 
-<img aling="left alt="Lista das linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick222555000">
+<img aling="left" alt="Lista das linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick222555000">
 
 [twitter]: https://twitter.com/Rikelmy_Magno
 [instagram]: https://www.instagram.com/umnerdequalquer/
