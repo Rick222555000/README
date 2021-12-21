@@ -11,6 +11,8 @@
 - :relaxed: Tento deixar meu trabalho fácil e engraçado para descontrair;
 - :art: Gosto de desenhar.
 
+<br>
+
 ### Contate-me por:
 
 [<img align="left" alt="Logo do facebook" src="icon/facebook.svg" width="25px">][facebook]
