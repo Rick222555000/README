@@ -18,6 +18,8 @@
 [<img align="left" alt="Logo do twitter" src="icon/twitter.svg" width="25px">][twitter]
 [<img align="left" alt="Logo do youtube" src="icon/youtube.svg" width="25px">][youtube]
 
+</br>
+
 ### Ferramentas e linguagens que geralmente uso:
 
 [<img align="left" alt="Logo do HTML5" src="icon/html5.svg" width="25px">]
