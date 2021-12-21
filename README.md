@@ -22,13 +22,13 @@
 
 ### Ferramentas e linguagens que geralmente uso:
 
-[<img align="left" alt="Logo do HTML5" src="icon/html5.svg" width="25px">]
-[<img align="left" alt="Logo das CSS3" src="icon/css3.svg" width="25px">]
-[<img align="left" alt="Logo do JavaScript" src="icon/js.svg" width="25px">]
-[<img align="left" alt="Logo do PHP" src="icon/php.svg" width="25px">]
-[<img align="left" alt="Logo do Python" src="icon/python.svg" width="25px">]
-[<img align="left" alt="Logo do VScode" src="icon/vscode.svg" width="25px">]
-[<img align="left" alt="Logo do GitHub" src="icon/github.svg" width="25px">]
+[<img align="left" alt="Logo do HTML5" src="icon/html5.svg" width="25px">][]
+[<img align="left" alt="Logo das CSS3" src="icon/css3.svg" width="25px">][]
+[<img align="left" alt="Logo do JavaScript" src="icon/js.svg" width="25px">][]
+[<img align="left" alt="Logo do PHP" src="icon/php.svg" width="25px">][]
+[<img align="left" alt="Logo do Python" src="icon/python.svg" width="25px">][]
+[<img align="left" alt="Logo do VScode" src="icon/vscode.svg" width="25px">][]
+[<img align="left" alt="Logo do GitHub" src="icon/github.svg" width="25px">][]
 
 [twitter]: https://twitter.com/Rikelmy_Magno
 [instagram]: https://www.instagram.com/umnerdequalquer/
