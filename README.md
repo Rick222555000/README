@@ -8,8 +8,8 @@
 - :man_teacher: Dou meu melhor em aprender qualquer coisa, mesmo quando não sei de nada;
 - :timer_clock: Como passatempo fico planejando mini-projetos ou fazendo cursos, objetivando não ficar desatualizado ou "enferrujado";
 - :teddy_bear: Gosto de brincar e me divertir;
-- :relaxed: Tento deixar meu trabalho fácil e engraçado para descontrair.
-- :art: Gosto de desenhar;
+- :relaxed: Tento deixar meu trabalho fácil e engraçado para descontrair;
+- :art: Gosto de desenhar.
 
 ### Contate-me por:
 
