@@ -33,7 +33,7 @@
 
 ---
 
-[<img diplay="block"align="center" alt="Os status do meu GitHub" src="https://github-readme-stats.vercel.app/api?username=Rick222555000&show_icons=true&theme=dracula&hide_border=true&locale=pt-br&cache_seconds=1800">][return]
+[<img diplay="block" align="center" alt="Os status do meu GitHub" src="https://github-readme-stats.vercel.app/api?username=Rick222555000&show_icons=true&theme=dracula&hide_border=true&locale=pt-br&cache_seconds=1800">][return]
 
 ---
 
