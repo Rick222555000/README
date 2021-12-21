@@ -9,3 +9,10 @@
 - :timer_clock: Como passatempo fico planejando mini-projetos ou fazendo cursos, objetivando não ficar desatualizado ou "enferrujado";
 - :teddy_bear: Gosto de brincar e me divertir;
 - :relaxed: Tento deixar meu trabalho fácil e engraçado para descontrair.
+- :art: Gosto de desenhar;
+
+### Contate-me por:
+
+[<img align="left" alt="Logo do twitter" src="icon/twitter">][twitter]
+
+[twitter]: https://twitter.com/Rikelmy_Magno
