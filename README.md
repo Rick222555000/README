@@ -30,6 +30,8 @@
 [<img align="left" alt="Logo do VScode" src="icon/vscode.svg" width="25px">][]
 [<img align="left" alt="Logo do GitHub" src="icon/github.svg" width="25px">][]
 
+<br>
+
 [twitter]: https://twitter.com/Rikelmy_Magno
 [instagram]: https://www.instagram.com/umnerdequalquer/
 [facebook]: https://www.facebook.com/profile.php?id=100008299009159
