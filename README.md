@@ -27,6 +27,7 @@
 [<img align="left" alt="Logo das CSS3" src="icon/css3.svg" width="25px">][return]
 [<img align="left" alt="Logo do JavaScript" src="icon/js.svg" width="25px">][return]
 [<img align="left" alt="Logo do PHP" src="icon/php.svg" width="25px">][return]
+[<img align="left" alt="Logo do mysql" src="icon/mysql.svg" width="25px">][return]
 [<img align="left" alt="Logo do Python" src="icon/python.svg" width="25px">][return]
 [<img align="left" alt="Logo do VScode" src="icon/vscode.svg" width="25px">][return]
 [<img align="left" alt="Logo do GitHub" src="icon/github.svg" width="25px">][return]
