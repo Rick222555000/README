@@ -13,6 +13,6 @@
 
 ### Contate-me por:
 
-[<img align="left" alt="Logo do twitter" src="icon/twitter">][twitter]
+[<img align="left" alt="Logo do twitter" src="icon/twitter.svg">][twitter]
 
 [twitter]: https://twitter.com/Rikelmy_Magno
