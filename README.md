@@ -33,7 +33,7 @@
 
 ---
 
-<img aling="left" alt="Os status do meu GitHub" src="https://github-readme-stats.vercel.app/api?username=Rick222555000&show_icons=true&theme=tokyonight">
+<img aling="center" alt="Os status do meu GitHub" src="https://github-readme-stats.vercel.app/api?username=Rick222555000&show_icons=true&theme=tokyonight">
 
 [twitter]: https://twitter.com/Rikelmy_Magno
 [instagram]: https://www.instagram.com/umnerdequalquer/
