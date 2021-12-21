@@ -14,6 +14,8 @@
 ### Contate-me por:
 
 [<img align="left" alt="Logo do twitter" src="icon/twitter.svg" width="25px">][twitter]
+[<img align="left" alt="Logo do instagram" src="icon/instagram.svg" width="25px">][instagram]
 
 
 [twitter]: https://twitter.com/Rikelmy_Magno
+[instagram]: https://www.instagram.com/umnerdequalquer/
