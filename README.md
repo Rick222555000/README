@@ -41,6 +41,6 @@
 
 [twitter]: https://twitter.com/Rikelmy_Magno
 [instagram]: https://www.instagram.com/umnerdequalquer/
-[facebook]: https://www.facebook.com/profile.php?id=100008299009159
+[facebook]: <a href="https://www.facebook.com/profile.php?id=100008299009159" target="blank">
 [youtube]: https://www.youtube.com/channel/UCfk-drqW1O1VhV9EmLfYhGA
 [return]: https://github.com/Rick222555000
