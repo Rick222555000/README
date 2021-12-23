@@ -45,7 +45,7 @@
 
 [https://img.shields.io/twitter/follow/Rikelmy_Magno?label=Siga-me%20%40Rikelmy_Magno&style=social][twitter]
 
-[https://img.shields.io/github/followers/Rick222555000?label=Seguidores&style=social][return]
+https://img.shields.io/github/followers/Rick222555000?label=Seguidores&style=social
 
 [twitter]: https://twitter.com/Rikelmy_Magno
 [instagram]: https://www.instagram.com/umnerdequalquer/
