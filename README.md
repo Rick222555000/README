@@ -1,6 +1,10 @@
 
 ### Oi, bom dia, boa tarde, boa noite! Sou Rikelmy Magno de Oliveira, tenho 18 anos e faço informática no IFRN. Serei um eterno estudante, no qual sempre quer saber mais, por isso estou aqui. No GitHub consigo ter acesso a tantas coisas incríveis e não paro de me surpreender. :nerd_face:
 
+![Twitter Follow](https://img.shields.io/twitter/follow/Rikelmy_Magno?label=Siga-me&style=social)  ![GitHub followers](https://img.shields.io/github/followers/Rick222555000?label=Siga-me&style=social)
+
+---
+
 ## Sou bem simples, de alma, carne e intelectualmente.
 - :computer: Gosto de trabalhar com o VScode;
 - :open_book: Constantemente aprendo algo novo;
@@ -40,10 +44,6 @@
 
 |<a href="https://github.com/Rick222555000"><img align="center" alt="Os status do meu GitHub" src="https://github-readme-stats.vercel.app/api?username=Rick222555000&show_icons=true&theme=dracula&hide_border=true&locale=pt-br&cache_seconds=1800"></a>|<a href="https://github.com/Rick222555000"><img align="center" alt="Lista das linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick222555000&locale=pt-br&theme=dracula&hide_border=true&layout=compact"></a>|
 |---|---|
-
----
-
-![Twitter Follow](https://img.shields.io/twitter/follow/Rikelmy_Magno?label=Siga-me&style=social)  ![GitHub followers](https://img.shields.io/github/followers/Rick222555000?label=Siga-me&style=social)
 
 [twitter]: https://twitter.com/Rikelmy_Magno
 [instagram]: https://www.instagram.com/umnerdequalquer/
