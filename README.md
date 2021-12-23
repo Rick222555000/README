@@ -1,7 +1,7 @@
 
-### Oi :wave:
+## Oi :wave:
 
-## Bom dia, boa tarde, boa noite! Sou Rikelmy Magno de Oliveira, tenho 18 anos e faço informática no IFRN. Serei um eterno estudante, no qual sempre quer saber mais, por isso estou aqui. No GitHub consigo ter acesso a tantas coisas incríveis e não paro de me surpreender. :nerd_face:
+### Bom dia, boa tarde, boa noite! Sou Rikelmy Magno de Oliveira, tenho 18 anos e faço informática no IFRN. Serei um eterno estudante, no qual sempre quer saber mais, por isso estou aqui. No GitHub consigo ter acesso a tantas coisas incríveis e não paro de me surpreender. :nerd_face:
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Rikelmy_Magno?label=Siga-me&style=social)  ![GitHub followers](https://img.shields.io/github/followers/Rick222555000?label=Siga-me&style=social)
 
@@ -19,7 +19,7 @@
 
 ---
 
-### Contate-me por:
+## Contate-me por:
 
 [<img align="left" alt="Logo do facebook" src="icon/facebook.svg" width="25px">][facebook]
 [<img align="left" alt="Logo do instagram" src="icon/instagram.svg" width="25px">][instagram]
@@ -27,7 +27,7 @@
 
 <br>
 
-### Ferramentas e linguagens que geralmente uso:
+## Ferramentas e linguagens que geralmente uso:
 
 [<img align="left" alt="Logo do HTML5" src="icon/html5.svg" width="25px">][return]
 [<img align="left" alt="Logo das CSS3" src="icon/css3.svg" width="25px">][return]
