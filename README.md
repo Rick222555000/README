@@ -44,7 +44,7 @@
 ---
 
 [https://img.shields.io/twitter/follow/Rikelmy_Magno?label=Siga-me%20%40Rikelmy_Magno&style=social][twitter]
-
+<br>
 [https://img.shields.io/github/followers/Rick222555000?label=Seguidores&style=social][return]
 
 [twitter]: https://twitter.com/Rikelmy_Magno
