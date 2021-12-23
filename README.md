@@ -1,5 +1,7 @@
 
-### Oi, bom dia, boa tarde, boa noite! Sou Rikelmy Magno de Oliveira, tenho 18 anos e faço informática no IFRN. Serei um eterno estudante, no qual sempre quer saber mais, por isso estou aqui. No GitHub consigo ter acesso a tantas coisas incríveis e não paro de me surpreender. :nerd_face:
+### Oi :wave:
+
+## Bom dia, boa tarde, boa noite! Sou Rikelmy Magno de Oliveira, tenho 18 anos e faço informática no IFRN. Serei um eterno estudante, no qual sempre quer saber mais, por isso estou aqui. No GitHub consigo ter acesso a tantas coisas incríveis e não paro de me surpreender. :nerd_face:
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Rikelmy_Magno?label=Siga-me&style=social)  ![GitHub followers](https://img.shields.io/github/followers/Rick222555000?label=Siga-me&style=social)
 
