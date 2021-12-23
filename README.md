@@ -43,7 +43,7 @@
 
 ---
 
-[https://img.shields.io/twitter/follow/Rikelmy_Magno?label=Siga-me%20%40Rikelmy_Magno&style=social][twitter]
+![Twitter Follow](https://img.shields.io/twitter/follow/Rikelmy_Magno?label=Siga-me&style=social)
 
 [twitter]: https://twitter.com/Rikelmy_Magno
 [instagram]: https://www.instagram.com/umnerdequalquer/
