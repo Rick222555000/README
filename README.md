@@ -36,6 +36,8 @@
 [<img align="left" alt="Logo do VScode" src="icon/vscode.svg" width="25px">][return]
 [<img align="left" alt="Logo do GitHub" src="icon/github.svg" width="25px">][return]
 
+<br>
+
 ---
 
 |<a href="https://github.com/Rick222555000"><img align="center" alt="Os status do meu GitHub" src="https://github-readme-stats.vercel.app/api?username=Rick222555000&show_icons=true&theme=dracula&hide_border=true&locale=pt-br&cache_seconds=1800"></a>|<a href="https://github.com/Rick222555000"><img align="center" alt="Lista das linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick222555000&locale=pt-br&theme=dracula&hide_border=true&layout=compact"></a>|
