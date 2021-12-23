@@ -1,5 +1,5 @@
 
-### Oi, bom dia, boa tarde, boa noite! Sou Rikelmy Magno de Oliveira, tenho 18 anos e faço informática no IFRN. Serei um eterno estudante, no qual sempre quer saber mais, por isso estou aqui. No GitHub consigo ter acesso a tantas coisas incríveis e não para de me surpreender. :nerd_face:
+### Oi, bom dia, boa tarde, boa noite! Sou Rikelmy Magno de Oliveira, tenho 18 anos e faço informática no IFRN. Serei um eterno estudante, no qual sempre quer saber mais, por isso estou aqui. No GitHub consigo ter acesso a tantas coisas incríveis e não paro de me surpreender. :nerd_face:
 
 ## Sou bem simples, de alma, carne e intelectualmente.
 - :computer: Gosto de trabalhar com o VScode;
@@ -11,7 +11,7 @@
 - :relaxed: Tento deixar meu trabalho fácil e engraçado para descontrair;
 - :art: Gosto de desenhar.
 
-<br>
+---
 
 ### Contate-me por:
 
@@ -19,7 +19,7 @@
 [<img align="left" alt="Logo do instagram" src="icon/instagram.svg" width="25px">][instagram]
 [<img align="left" alt="Logo do twitter" src="icon/twitter.svg" width="25px">][twitter]
 
-<br>
+---
 
 ### Ferramentas e linguagens que geralmente uso:
 
@@ -31,8 +31,6 @@
 [<img align="left" alt="Logo do Python" src="icon/python.svg" width="25px">][return]
 [<img align="left" alt="Logo do VScode" src="icon/vscode.svg" width="25px">][return]
 [<img align="left" alt="Logo do GitHub" src="icon/github.svg" width="25px">][return]
-
-<br>
 
 ---
 
