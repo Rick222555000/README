@@ -15,7 +15,7 @@
 - :relaxed: Tento deixar meu trabalho fácil e engraçado para descontrair;
 - :art: Gosto de desenhar.
 
-<br>
+---
 
 ## Contate-me por:
 
@@ -35,8 +35,6 @@
 [<img align="left" alt="Logo do Python" src="icon/python.svg" width="25px">][return]
 [<img align="left" alt="Logo do VScode" src="icon/vscode.svg" width="25px">][return]
 [<img align="left" alt="Logo do GitHub" src="icon/github.svg" width="25px">][return]
-
-<br>
 
 ---
 
