@@ -43,7 +43,7 @@
 
 ---
 
-[Twitter Follow](https://img.shields.io/twitter/follow/Rikelmy_Magno?label=Siga-me&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Rikelmy_Magno?label=Siga-me&style=social)
 
 ![GitHub followers](https://img.shields.io/github/followers/Rick222555000?label=Siga-me&style=social)
 
